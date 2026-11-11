@@ -5,7 +5,7 @@ Private by design, offline-first, built to help people.
 
 ## What this is
 
-A personal open-source project, maintained by one developer in Italy.
+A personal open-source project, maintained by one software architect in Italy.
 Not a company. No telemetry, no cloud requirement.
 
 ## Focus
@@ -14,10 +14,17 @@ Not a company. No telemetry, no cloud requirement.
 - E-ink interfaces for high legibility
 - LoRa mesh messaging and positioning where phones have no signal
 
-## How it is developed
+## Who is behind it
 
-Code is written and tested by the maintainer, with AI coding tools used
-under human review. Each repository states its own licence.
+nekobits is designed and maintained by Luca Nardelli, software architect
+with 24 years of experience ([LinkedIn](https://www.linkedin.com/in/luca-nardelli/)).
+
+## How AI is used
+
+AI coding tools are used as instruments, not as authors. The maintainer
+defines the architecture, the design patterns and the features, then
+reviews and tests every change. Responsibility for the code stays human.
+Each repository states its own licence.
 
 ## Contributing
 
