@@ -31,6 +31,9 @@ Each repository states its own licence.
 The projects are open source but not collaborative: pull requests are not
 accepted. Bug reports and ideas are welcome via issues.
 
+See [how to contribute](https://github.com/nekobits-org/.github/blob/main/CONTRIBUTING.md)
+and the [security policy](https://github.com/nekobits-org/.github/blob/main/SECURITY.md).
+
 ## Contact
 
 info@nekobits.it · https://nekobits.it
