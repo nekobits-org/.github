@@ -5,7 +5,7 @@ Private by design, offline-first, built to help people.
 
 ## What this is
 
-A personal open-source project, maintained by one software architect in Italy.
+A collection of open-source projects, maintained by one software architect in Italy.
 Not a company. No telemetry, no cloud requirement.
 
 ## Focus
@@ -28,7 +28,7 @@ Each repository states its own licence.
 
 ## Contributing
 
-The project is open source but not collaborative: pull requests are not
+The projects are open source but not collaborative: pull requests are not
 accepted. Bug reports and ideas are welcome via issues.
 
 ## Contact
