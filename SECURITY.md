@@ -10,7 +10,7 @@ Write to info@nekobits.it with:
 - the hardware involved, if any;
 - a description of the problem and the steps to reproduce it.
 
-You will get an answer within 7 days. nekobits is maintained by one person,
+You will get an answer within 14 days. nekobits is maintained by one person,
 so fixes are scheduled by severity; you will be told what to expect.
 
 Please allow time for a fix before publishing details.
